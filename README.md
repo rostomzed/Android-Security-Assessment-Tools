@@ -1,6 +1,6 @@
 # Android-Security-Assessment-Tools
 
-This document is intended to provide a list of tools used for vulnerability analysis and penetration testing of Android applications. This is by no means a comprehensive list and some tools achieve similar goals. As most tools are open projects, some might not be constantly maintained and hence the use of multiple tools for penetration testing might be necessary.
+This document is intended to provide a list of tools used for vulnerability analysis and penetration testing of Android applications. This is by no means a comprehensive list and some tools achieve similar goals. As most tools are open projects, some might not be constantly maintained and hence the use of multiple tools for security assessments and penetration testing might be necessary.
 
 
 | **Tool** | **Description** |

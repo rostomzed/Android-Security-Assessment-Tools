@@ -14,6 +14,7 @@ This document is intended to provide a list of tools used for vulnerability anal
 | [Several tools from PSU](http://siis.cse.psu.edu/tools.html) | Dare, Ded, Fortify SCA, Kirin and JLift |
 | [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs) | This tool generates Smali Control Flow Graphs which can facilitate the review process. |
 | [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/) | FlowDroid is a context-, flow-, field-, object-sensitive and lifecycle-aware static taint analysis tool for Android applications. |
+| [Vulert]( https://vulert.com/abom ) |Vulert helps developers secure their software by monitoring and alerting them to vulnerabilities in open-source dependencies—without requiring access to their code. It supports dependencies from Js, PHP, Java, Python, and many more.|
 | [PSCout](http://pscout.csl.toronto.edu/) | A tool that extracts the permission specification from the Android OS source code using static analysis |
 | [Amandroid](http://amandroid.sireum.org/) | Amandroid is a static analysis framework for Android apps. |
 | [SmaliSCA](https://github.com/dorneanu/smalisca) | Smali Static Code Analysis |

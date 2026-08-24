@@ -151,6 +151,7 @@ now unmaintained.
 | [strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) | ✅ 2026-07 | Anti-detection build of frida-server, for targets that check for stock Frida. |
 | [Florida](https://github.com/Ylarod/Florida) | ✅ 2026-07 | Another anti-detection frida-server build with the same purpose. |
 | [JustTrustMe](https://github.com/Fuzion24/JustTrustMe) | ⚠️ 2024-09 | Xposed module that disables certificate validation across common HTTP libraries. Convenient, but Frida-based approaches are more reliable now. |
+| [Airgate](https://github.com/heyaibi/airgate) | ✅ 2026-08 | Offline Device-Owner watchdog that hardens dedicated Android devices for cold-storage — monitors 14 wireless/USB/system-tamper signals and triggers reactive hardening / factory-reset wipe; 100% offline (no INTERNET permission, Dhizuku), GPL-3.0. Hardened target for testing DevicePolicyManager and airgap bypass. |
 
 ## Emulation and virtual devices
 

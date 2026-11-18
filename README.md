@@ -95,6 +95,7 @@ reference most assessments are structured around.
 | Tool | Status | Description |
 | --- | --- | --- |
 | [jadx](https://github.com/skylot/jadx) | ✅ 2026-07 | DEX to Java decompiler with an excellent GUI, deobfuscation support and scripting. The default first look at any APK. |
+| [REA](https://github.com/morluto/rea) | ✅ 2026-11 | Local CLI and MCP server that uses headless JADX to inspect APK manifests, decompiled methods and references, with supporting evidence. |
 | [Apktool](https://apktool.org/) | ✅ 2026-08 | Decodes resources to near-original form and rebuilds them after modification, including manifest and smali round-tripping. [Repo](https://github.com/iBotPeaches/Apktool). |
 | [smali/baksmali](https://github.com/google/smali) | ✅ 2026-07 | Assembler/disassembler for the DEX format. Google's fork is the maintained continuation of JesusFreke's now-archived original. |
 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | ✅ 2026-07 | Full-featured SRE framework with a strong decompiler — the standard free option for the native (JNI/`.so`) side of an app. |

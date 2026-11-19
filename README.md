@@ -230,6 +230,7 @@ installing it.
 | [Trivy](https://github.com/aquasecurity/trivy) | ✅ 2026-08 | Broad scanner for vulnerabilities, misconfiguration, secrets and SBOM generation, including JVM dependencies. |
 | [OWASP dependency-check](https://github.com/dependency-check/DependencyCheck) | ✅ 2026-08 | Identifies known-vulnerable dependencies via CPE matching, with a Gradle plugin. Moved from the `jeremylong` org. |
 | [Syft](https://github.com/anchore/syft) | ✅ 2026-07 | Generates SBOMs from images and filesystems, usable to inventory what actually ships inside a build. |
+| [Vulert](https://vulert.com) | ✅  | Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more. . |
 | [CycloneDX Gradle plugin](https://github.com/CycloneDX/cyclonedx-gradle-plugin) | ✅ 2026-07 | Produces CycloneDX SBOMs directly from Gradle projects. |
 
 ## Malware analysis and mobile forensics
